@@ -19,15 +19,9 @@
 
 ---
 
-<h3 align="center">Featured Projects</h3>
 
-| Project      | Description                                             | Link                                             |
-|--------------|---------------------------------------------------------|--------------------------------------------------|
-| DataVista    | Interactive data visualization web app using Django     | [GitHub](https://github.com/jobinL/DataVista.git) |
-| AutoZone     | Car service and parts purchase platform with mechanic module | *Coming soon*                                     |
-| Portfolio    | My personal portfolio website showcasing projects and skills | [GitHub](https://github.com/jobinL/Portfolio)   |
 
----
+
 
 <h3 align="center">📫 Connect with me:</h3>
 
