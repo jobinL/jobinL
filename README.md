@@ -1,13 +1,33 @@
 <h1 align="center">Hi 👋, I'm Jobin Luckose</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer focused on creating impactful solutions</h3>
 
-- 🔭 I’m currently working on [DataVista](https://github.com/jobinL/DataVista.git)
+- 🔭 I’m currently working on [DataVista](https://github.com/jobinL/DataVista.git) — a dynamic data visualization platform built with Django
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **FastAPI** to build high-performance APIs and microservices
 
-- 💬 Ask me about **Django**
+- 💬 Ask me about **Django**, **Python**, **Java**, and **Web Development**
 
-- 📫 How to reach me **luckosejobin@gmail.com**
+- 🚀 I love exploring new technologies like **AI/ML**, **Cloud Computing**, and **DevOps**
+
+- 📫 How to reach me: **luckosejobin@gmail.com**
+
+- ⚡ Fun fact: I’m a lifelong learner who enjoys turning ideas into real-world projects!
+
+---
+
+<h3 align="center">📫 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jobinluckose" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jobinL" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:luckosejobin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
