@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobin Luckose</h1>
-<h3 align="center">A passionate software developer focused on creating impactful solutions</h3>
+<h3 align="center">A Computer Science student focused on creating impactful solutions</h3>
 
 - 🔭 I’m currently working on [DataVista](https://github.com/jobinL/DataVista.git) — a dynamic data visualization platform built with Django to help users easily visualize and analyze data
 
